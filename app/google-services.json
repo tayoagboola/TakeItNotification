@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338653993554",
+    "firebase_url": "https://takeitnotifications.firebaseio.com",
+    "project_id": "takeitnotifications",
+    "storage_bucket": "takeitnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338653993554:android:18e0e87673c41e25",
+        "android_client_info": {
+          "package_name": "com.benjaminagboola.takeitnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338653993554-afiu0ouqde7s3btfctnhrn49hdrtovc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5qH-UvCljF6FVkulZiZ3PZ2tScUlsu4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338653993554-afiu0ouqde7s3btfctnhrn49hdrtovc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
